@@ -1,4 +1,4 @@
-# -classification-mode-for-predicting-price-range-of-mobile
+#predicting-price-range-of-mobile
 Create a classification model to predict whether price range of mobile  based on certain specifications
 Dataset as 21 features and 2000 entries. The meanings of the features are given below.
 1) battery_power: Total energy a battery can store in one time measured in mAh
